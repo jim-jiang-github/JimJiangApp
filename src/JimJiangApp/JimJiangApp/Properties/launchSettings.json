@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JimJiangApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "JimJiangApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
